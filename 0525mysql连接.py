@@ -1,8 +1,4 @@
 # -*- coding=utf-8 -*-
- 
- 
-
- 
 import os
 import MySQLdb
 import logging
@@ -58,5 +54,3 @@ def main():
 
 if __name__ == "__main__":
      main()
-     #下面是测试
-     #print get_tags('基金3号产品和基金21号')
